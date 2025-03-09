@@ -1,0 +1,18 @@
+.game-translator-keyword {
+  font-weight: bold;
+  border-bottom: 1px dotted #666;
+  cursor: help;
+}
+
+.game-translator-tooltip {
+  display: none;
+  position: fixed;
+  background: #333;
+  color: white;
+  padding: 8px;
+  border-radius: 4px;
+  max-width: 300px;
+  z-index: 10000;
+  font-size: 14px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}

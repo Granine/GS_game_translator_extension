@@ -1,0 +1,47 @@
+{
+  "name": "Sample Game Package",
+  "version": "1.0",
+  "settings": {
+    "defaultTargetLang": "en"
+  },
+  "conversionTable": {
+    "english": [
+      "Engine",
+      "Sword",
+      "Shield",
+      "Potion"
+    ],
+    "mandarin": [
+      "引擎",
+      "剑",
+      "盾",
+      "药水"
+    ],
+    "japanese": [
+      "エンジン",
+      "剣",
+      "盾",
+      "ポーション"
+    ]
+  },
+  "definitionTable": {
+    "english": [
+      "A machine that converts energy into mechanical force",
+      "A weapon with a long metal blade and a hilt",
+      "A piece of armor used to protect oneself",
+      "A magical drink that restores health or provides special effects"
+    ],
+    "mandarin": [
+      "将能量转换为机械力的机器",
+      "一种带有长金属刃和握柄的武器",
+      "用于保护自己的防具",
+      "恢复生命值或提供特殊效果的魔法饮品"
+    ],
+    "japanese": [
+      "エネルギーを機械力に変換する機械",
+      "長い金属の刃と柄を持つ武器",
+      "自身を守るための防具",
+      "体力を回復したり特殊な効果をもたらす魔法の飲み物"
+    ]
+  }
+}
